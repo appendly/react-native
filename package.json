@@ -1,0 +1,38 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^30.0.0",
+    "firebase": "^5.5.6",
+    "he": "^1.1.1",
+    "lodash": "^4.17.10",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-expo-image-cache": "^3.1.1",
+    "react-native-google-places-autocomplete": "^1.3.9",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-image-view": "^2.0.5",
+    "react-native-keyboard-accessory": "0.0.12",
+    "react-native-lightbox": "^0.7.0",
+    "react-native-link-preview": "^1.3.7",
+    "react-native-modal": "^5.4.0",
+    "react-native-progress": "^3.5.0",
+    "react-native-render-html": "^3.10.0",
+    "react-native-swipeout": "^2.3.3",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^2.11.2",
+    "react-navigation-slide-from-right-transition": "^1.0.4",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.6.12",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.8.0",
+    "react-devtools": "^3.3.4",
+    "whatwg-fetch": "^2.0.4"
+  }
+}
